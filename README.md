@@ -19,7 +19,7 @@ Then, use pip to install this module in your virtual environment for ganimator:
 
 ```bash
 conda activate ganimator
-pip install ganimator_eval_kernel
+pip install ./ganimator-eval-kernel
 ```
 
 ## Acknowledgements
